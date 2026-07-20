@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "extensions": {
+    "just": {
+      "version": "1.4.0",
+      "downloadUrl": "https://github.com/ratzoedits/Just/releases/download/v1.4.0/Just-1.4.0.zxp"
+    }
+  }
+}
