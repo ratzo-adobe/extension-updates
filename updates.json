@@ -21,6 +21,10 @@
       "version": "1.2.9",
       "downloadUrl": "https://github.com/ratzoedits/Paster/releases/download/v1.2.9/Paster-1.2.9.zxp"
     },
+    "save": {
+      "version": "1.3.3",
+      "downloadUrl": "https://github.com/ratzo-adobe/Save/releases/download/v1.3.3/Save-CEP-1.3.3.zxp"
+    },
     "tracker": {
       "version": "1.1.1",
       "downloadUrl": "https://github.com/ratzoedits/Tracker/releases/download/v1.1.1/Tracker-1.1.1.zxp"
