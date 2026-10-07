@@ -28,6 +28,10 @@
     "tracker": {
       "version": "1.1.1",
       "downloadUrl": "https://github.com/ratzoedits/Tracker/releases/download/v1.1.1/Tracker-1.1.1.zxp"
+    },
+    "center": {
+      "version": "1.4.0",
+      "downloadUrl": "https://github.com/ratzo-adobe/Center/releases/download/v1.4.0/Center-UXP-1.4.0.ccx"
     }
   }
 }
